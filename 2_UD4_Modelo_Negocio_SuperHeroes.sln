@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_UD4_Modelo_Negocio_SuperHeroes", "2_UD4_Modelo_Negocio_SuperHeroes\2_UD4_Modelo_Negocio_SuperHeroes.csproj", "{CE7EAD8E-B8D3-4BF9-97EC-B7D036375FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7EAD8E-B8D3-4BF9-97EC-B7D036375FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7EAD8E-B8D3-4BF9-97EC-B7D036375FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7EAD8E-B8D3-4BF9-97EC-B7D036375FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7EAD8E-B8D3-4BF9-97EC-B7D036375FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF627159-094F-4353-B207-04687BDFD4D9}
+	EndGlobalSection
+EndGlobal

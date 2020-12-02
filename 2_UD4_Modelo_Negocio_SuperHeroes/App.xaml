@@ -1,0 +1,9 @@
+﻿<Application x:Class="_2_UD4_Modelo_Negocio_SuperHeroes.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_2_UD4_Modelo_Negocio_SuperHeroes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
